@@ -83,7 +83,7 @@ output_path: 변환한 파일 저장할 폴더 경로
    |   6   |    억울함'     |    억울 하 ㅁ '     |    _    |  NNG+XSA+ETN+SS   |   _   |   7   | VP_SBJ |   _   |   _   |
    |   7   |     풀릴까     |      풀리 ㄹ까      |    _    |       VV+EF       |   _   |   0   |   VP   |   _   |   _   |
    
-   ![예제 구문 트리]()
+   ![오류 예제 구문 트리(case 1)](https://github.com/yseokchoi/DependencyCorpusOfEveryone/blob/main/figs/error_case_1.png)
 
    
 
@@ -103,7 +103,7 @@ output_path: 변환한 파일 저장할 폴더 경로
    |   8   |     나가라고     |      나가 라고      |    _    |        VV+EC         |   _   |   9   |     VP     |   _   |   _   |
    | **9** |   **지시했다**   | **지시 하 았 다 .** |  **_**  | **NNG+XSV+EP+EF+SF** | **_** | **0** |   **VP**   | **_** | **_** |
 
-   
+   ![오류 예제 구문 트리(case 2)](https://github.com/yseokchoi/DependencyCorpusOfEveryone/blob/main/figs/error_case_2.png)
 
 3. ##### 트리 미완성(6 문장)
 
@@ -122,3 +122,5 @@ output_path: 변환한 파일 저장할 폴더 경로
 |   9   |    어우러져    |   어우러지 어   |    _    |    VV+EC    |   _   |  11   |     VP     |   _   |   _   |
 |  10   |     한눈에     |     한눈 에     |    _    |   NNG+JKB   |   _   |  11   |   NP_AJT   |   _   |   _   |
 |  11   |   들어왔다.    | 들어오 았 다 .  |    _    | VV+EP+EF+SF |   _   |   0   |     VP     |   _   |   _   |
+
+![오류 예제 구문 트리(case 3)](https://github.com/yseokchoi/DependencyCorpusOfEveryone/blob/main/figs/error_case_3.png)

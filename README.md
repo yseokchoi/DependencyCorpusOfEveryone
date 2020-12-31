@@ -123,4 +123,4 @@ output_path: 변환한 파일 저장할 폴더 경로
 |  10   |     한눈에     |     한눈 에     |    _    |   NNG+JKB   |   _   |  11   |   NP_AJT   |   _   |   _   |
 |  11   |   들어왔다.    | 들어오 았 다 .  |    _    | VV+EP+EF+SF |   _   |   0   |     VP     |   _   |   _   |
 
-![오류 예제 구문 트리(case 3) ](https://github.com/yseokchoi/DependencyCorpusOfEveryone/blob/main/figs/error_case_3.png)
+![오류 예제 구문 트리(case 3)](https://github.com/yseokchoi/DependencyCorpusOfEveryone/blob/main/figs/error_case_3.png)
